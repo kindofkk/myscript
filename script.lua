@@ -9,7 +9,6 @@ Frame.Parent = ScreenGui
 Frame.Active = true
 Frame.Draggable = true
 
--- Создаём кнопку
 local Button = Instance.new("TextButton")
 Button.Size = UDim2.new(0, 150, 0, 40)
 Button.Position = UDim2.new(0.5, -75, 0.5, -20)
